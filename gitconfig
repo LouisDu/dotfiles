@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = zsh git_setup.sh
-	name = LouisDu louis.dublancq@gmail.com
+	email = louis.dublancq@gmail.com
+	name = Louis Dublancq
